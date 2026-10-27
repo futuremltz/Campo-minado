@@ -20,6 +20,14 @@ Implementação do clássico jogo **Campo Minado** em linguagem C, rodando diret
 - **Revelar todas as casas sem bomba** → vitória!
 ---
  
+## 🎬 Demonstração
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Partida completa do Campo Minado no terminal" />
+</p>
+
+---
+
 ## ✨ Funcionalidades implementadas
  
 - ✅ Geração aleatória do tabuleiro com posicionamento de bombas via `rand()`

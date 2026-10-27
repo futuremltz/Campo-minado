@@ -1,4 +1,9 @@
 # 💣 Campo Minado em C
+
+<p>
+  <a href="https://github.com/futuremltz/Campo-minado/actions/workflows/build.yml"><img src="https://github.com/futuremltz/Campo-minado/actions/workflows/build.yml/badge.svg" alt="Build" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg" alt="Licença MIT" /></a>
+</p>
  
 Projeto desenvolvido como **Trabalho do Grau B** da disciplina de **Algoritmos e Programação: Fundamentos** da [UNISINOS](https://www.unisinos.br/).
  
